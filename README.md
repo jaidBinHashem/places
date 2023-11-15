@@ -2,11 +2,17 @@
 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding. Also don't foget to install packages with npm or yarn
 
+<<<<<<< HEAD
+
 #### Add .env file to the root like bellow to access google location API
 
 `.env`
 
 `GOOGLE_MAPS_API_KEY=YOUR_KEY_HERE`
+
+=======
+
+> > > > > > > d7d0ca0 (feat: complete location search and save to storage)
 
 ## Step 1: Start the Metro Server
 
